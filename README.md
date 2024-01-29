@@ -1,1 +1,1 @@
-# 2024SpringCOMP2240Sect1
+# COMP 2240 Section 1 Code for Spring 2024
